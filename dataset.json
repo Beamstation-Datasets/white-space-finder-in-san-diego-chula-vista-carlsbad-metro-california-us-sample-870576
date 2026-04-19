@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in San Diego-Chula Vista-Carlsbad, CA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in San Diego-Chula Vista-Carlsbad (Metro), California, US",
-  "export_job_id": "e66b951b-0aa9-42fb-a4d5-3cf18d7c1630",
+  "export_job_id": "d93c5c0a-5afc-4f5e-b462-1969ab14bf77",
   "github_org": "Beamstation-Datasets",
   "id_short": 870576,
   "location_name": "San Diego-Chula Vista-Carlsbad, CA",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-870576",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/870576/beamstation_870576_food_and_drink-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
-  "sample_pct": 9.43,
+  "sample_pct": 10.0,
   "sample_records": 5,
   "sample_sha256": "96fcb9edb84c2ffcbc73580f3a672aa70196084f42a230367d366d98c2e79a1b",
   "sample_size_bytes": 36499,
-  "total_records": 53,
-  "updated_at": "2026-04-07T23:42:07.376638+00:00"
+  "total_records": 50,
+  "updated_at": "2026-04-15T05:25:32.726448+00:00"
 }
