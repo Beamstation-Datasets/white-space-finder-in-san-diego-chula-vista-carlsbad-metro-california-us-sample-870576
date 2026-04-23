@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d93c5c0a-5afc-4f5e-b462-1969ab14bf77",
+  "export_job_id": "a0669855-8d98-45aa-9ddc-6e65ff10e297",
   "id_short": 870576,
-  "published_at": "2026-04-19T07:16:12Z",
+  "published_at": "2026-04-23T07:13:27Z",
   "repo_name": "white-space-finder-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-870576",
   "sample_asset_name": "beamstation_870576_food_and_drink-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/870576/beamstation_870576_food_and_drink-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "96fcb9edb84c2ffcbc73580f3a672aa70196084f42a230367d366d98c2e79a1b",
-  "sample_size_bytes": 36499,
-  "total_records": 50
+  "sample_sha256": "c6f180c2f5ceb757caad737af10382f0379584044a4c03fb07b997a8c4eff747",
+  "sample_size_bytes": 35794,
+  "total_records": 54
 }
