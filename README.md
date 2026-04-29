@@ -1,6 +1,6 @@
 # White Space Finder in San Diego-Chula Vista-Carlsbad (Metro), California, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `870576` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 54 records |
-| Free sample size | 5 records (9.26%) |
-| Last export | 2026-04-22T11:10:06.719119+00:00 |
+| Full dataset size | 64 records |
+| Free sample size | 6 records (9.38%) |
+| Last export | 2026-04-29T12:21:36.279852+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-san-diego-chula-vista-carlsbad-metro-california-us-sample-870576/releases/download/sample-latest/beamstation_870576_food_and_drink-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
